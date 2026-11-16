@@ -1,0 +1,13 @@
+node_modules/
+backups/
+.env
+.env.*
+!.env.example
+*.log
+coverage/
+test-results/
+playwright-report/
+qa/*.png
+qa/*.y4m
+qa/evidence.json
+.DS_Store
